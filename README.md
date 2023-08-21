@@ -38,7 +38,7 @@ I am a beginner of front-end engineer from __Taiwan__, just start learning this 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail?hl=zh-TW)
 ![Discord](https://dcbadge.vercel.app/api/shield/65818178810294272)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/65818178810294272?theme=black&bg=#89F6FF&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/65818178810294272)
+[![Discord Presence](https://lanyard.kyrie25.me/api/65818178810294272?theme=white&imgStyle=square&gradient=B74DAB-00ABFF-b90C8F&bg=0d1117)](https://discord.com/users/65818178810294272)
 ![Steam Card](https://card.yuy1n.io/card/76561198007071546/gradient2,en,badge,text-FF89E6,bg-game-1451940,screenshots,badges,games)
 
 ***
@@ -55,7 +55,7 @@ I am a beginner of front-end engineer from __Taiwan__, just start learning this 
 [<img align="right" width="150" alt="❤️" src="https://moe-counter.glitch.me/get/@liuwaiting203?theme=rule34">](https://www.youtube.com/watch?v=51GIxXFKbzk&pp=ygUPaW50ZXJuZXQgeWFtZXJv)
 [<img align="right" width="390" alt="❤️" src="https://github.com/LiuWaiting203/LiuWaiting203/blob/main/metrics.plugin.isocalendar.fullyear.svg">](#)
 [<img align="left" width="390" alt="❤️" src="https://github.com/LiuWaiting203/LiuWaiting203/blob/main/metrics.plugin.languages.svg">](#)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=liuwaiting203&theme=tokyonight)](https://github.com/LiuWaiting203)
+[<img align="rigiht" width="390" alt="❤️" src="https://github-readme-stats.vercel.app/api?username=liuwaiting203&theme=tokyonight">](https://github.com/LiuWaiting203)
 
 ***
 
