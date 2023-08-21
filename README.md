@@ -33,10 +33,13 @@ I am a beginner of front-end engineer from __Taiwan__, just start learning this 
 
 ***
 
-## Contact me! 📫
+## Social Medias! 🎥
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail?hl=zh-TW)
 ![Discord](https://dcbadge.vercel.app/api/shield/65818178810294272)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/65818178810294272?theme=black&bg=#89F6FF&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/65818178810294272)
+![Steam Card](https://card.yuy1n.io/card/76561198007071546/gradient2,en,badge,text-FF89E6,bg-game-1451940,screenshots,badges,games)
 
 ***
 
