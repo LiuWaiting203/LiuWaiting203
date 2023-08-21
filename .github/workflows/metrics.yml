@@ -40,16 +40,11 @@ jobs:
             plugin_music_playlist: >-
               https://music.youtube.com/playlist?list=PLGfsZg8IfeS3bVTe5HmTViEHIEYaBd_Bq
             
-        - name: Steam Profile - Recently Played
+        - name: Full-year calendar
           uses: lowlighter/metrics@latest
           with: 
-            filename: metrics.plugin.steam.svg
-            token: NOT_NEEDED
+            filename: metrics.plugin.isocalendar.fullyear.svg
+            token: ${{ secrets.METRICS_TOKEN }}
             base: ""
-            plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-            plugin_steam: yes
-            plugin_steam_user: 76561198007071546
-            plugin_steam_sections: recently-played
-            plugin_steam_games_limit: 0
-            plugin_steam_recent_games_limit: 2
-            plugin_steam_playtime_threshold: 2
+            plugin_isocalendar: yes
+            plugin_isocalendar_duration: full-year
