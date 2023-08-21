@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/LiuWaiting203"><img src="peek.webp" alt="banner" width="100%"></a>
+  <a href="https://github.com/LiuWaiting203"><img src="peek.webp" alt="banner" width="70%"></a>
 </p>
 
 
