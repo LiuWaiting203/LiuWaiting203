@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Metrics](https://github.com/LiuWaiting203/LiuWaiting203/blob/main/github-metrics.svg)
+![Languages](https://github.com/LiuWaiting203/LiuWaiting203/blob/main/metrics.plugin.languages.svg)
 
 <!--
 **LiuWaiting203/LiuWaiting203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
