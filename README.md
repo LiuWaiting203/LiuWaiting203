@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Metrics](https://github.com/LiuWaiting203/LiuWaiting203/blob/main/github-metrics.svg)
+![CurrentYear](https://github.com/LiuWaiting203/LiuWaiting203/blob/main/metrics.plugin.isocalendar.fullyear.svg)
 ![Languages](https://github.com/LiuWaiting203/LiuWaiting203/blob/main/metrics.plugin.languages.svg)
 ![YTMusic](https://github.com/LiuWaiting203/LiuWaiting203/blob/main/metrics.plugin.music.playlist.svg)
 ![MoeCounter](https://moe-counter.glitch.me/get/@liuwaiting203?theme=rule34)
