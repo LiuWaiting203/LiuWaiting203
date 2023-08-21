@@ -2,7 +2,7 @@
 ![Metrics](https://github.com/LiuWaiting203/LiuWaiting203/blob/main/github-metrics.svg)
 ![Languages](https://github.com/LiuWaiting203/LiuWaiting203/blob/main/metrics.plugin.languages.svg)
 ![YTmusic](https://github.com/LiuWaiting203/LiuWaiting203/blob/main/metrics.plugin.music.playlist.svg)
-![https://www.youtube.com/watch?v=51GIxXFKbzk&pp=ygUPaW50ZXJuZXQgeWFtZXJv](https://moe-counter.glitch.me/get/@liuwaiting203?theme=rule34)
+![MoeCounter](https://moe-counter.glitch.me/get/@liuwaiting203?theme=rule34)
 
 <!--
 **LiuWaiting203/LiuWaiting203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
