@@ -2,6 +2,13 @@
   <a href="https://github.com/LiuWaiting203"><img src="peek.webp" alt="banner" width="70%"></a>
 </p>
 
+<div align="center">
+  
+[![](https://typograssy.deno.dev/api?text=ニーディーガールオーバードーズ&l0=none&l1=6859d9&l2=8f38e5&l3=d21e87&l4=941e84&bg=none&speed=130&comment=)](#)
+
+</div>
+
+
 
 ***
 
