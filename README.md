@@ -2,12 +2,14 @@
   <a href="https://github.com/LiuWaiting203"><img src="peek.webp" alt="banner" width="70%"></a>
 </p>
 
+
 <div align="center">
   
 [![](https://typograssy.deno.dev/api?text=ニーディーガールオーバードーズ&l0=none&l1=6859d9&l2=8f38e5&l3=d21e87&l4=941e84&bg=none&speed=130&comment=)](#)
 
 </div>
 
+[<img align="right" width="150" alt="❤️" src="https://moe-counter.glitch.me/get/@liuwaiting203?theme=rule34">](https://www.youtube.com/watch?v=51GIxXFKbzk&pp=ygUPaW50ZXJuZXQgeWFtZXJv)
 
 
 ***
@@ -57,13 +59,14 @@ I am a beginner of front-end engineer from __Taiwan__, just start learning this 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 ***
+<!--
 ## Stats 🗒️
 [<img align="left" width="390" alt="❤️" src="https://github.com/LiuWaiting203/LiuWaiting203/blob/main/github-metrics.svg">](#)
 [<img align="right" width="150" alt="❤️" src="https://moe-counter.glitch.me/get/@liuwaiting203?theme=rule34">](https://www.youtube.com/watch?v=51GIxXFKbzk&pp=ygUPaW50ZXJuZXQgeWFtZXJv)
 [<img align="right" width="390" alt="❤️" src="https://github.com/LiuWaiting203/LiuWaiting203/blob/main/metrics.plugin.isocalendar.fullyear.svg">](#)
 [<img align="left" width="390" alt="❤️" src="https://github.com/LiuWaiting203/LiuWaiting203/blob/main/metrics.plugin.languages.svg">](#)
 [<img align="rigiht" width="390" alt="❤️" src="https://github-readme-stats.vercel.app/api?username=liuwaiting203&theme=tokyonight">](https://github.com/LiuWaiting203)
-
+-->
 ***
 
 
