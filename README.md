@@ -48,8 +48,6 @@ I am a beginner of front-end engineer from __Taiwan__, just start learning this 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail?hl=zh-TW)
 ![Discord](https://dcbadge.vercel.app/api/shield/65818178810294272)
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/65818178810294272?theme=white&imgStyle=square&gradient=B74DAB-00ABFF-b90C8F&bg=0d1117)](https://discord.com/users/65818178810294272)
-![Steam Card](https://card.yuy1n.io/card/76561198007071546/gradient2,en,badge,text-FF89E6,bg-game-1451940,screenshots,badges,games)
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nezvlbqjmk5ha7vthg3fcruunu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=009dff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31nezvlbqjmk5ha7vthg3fcruunu&redirect=true)
 -->
